@@ -1,0 +1,1 @@
+LinkedInExtractor = Npm.require('linkedin-extractor');
